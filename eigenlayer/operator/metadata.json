@@ -1,7 +1,7 @@
 {
-  "name": "",
-  "website": "",
-  "description": "",
-  "logo": "",
+  "name": "topodopo",
+  "website": "https://www.example.com/",
+  "description": "EigenLayer testnet node operator.",
+  "logo": "https://github.com/Palinody/crypto/blob/master/eigenlayer/operator/ball.png?raw=true",
   "twitter": ""
 }
