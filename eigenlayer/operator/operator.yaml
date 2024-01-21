@@ -1,21 +1,21 @@
 operator:
-    address: "0x868f7583C39e6A32D9def38701105CdFDC35fD46"
-    earnings_receiver_address: "0x868f7583C39e6A32D9def38701105CdFDC35fD46"
-    delegation_approver_address: "0x0000000000000000000000000000000000000000"
+    address: 0x868f7583C39e6A32D9def38701105CdFDC35fD46
+    earnings_receiver_address: 0x868f7583C39e6A32D9def38701105CdFDC35fD46
+    delegation_approver_address: 0x0000000000000000000000000000000000000000
     staker_opt_out_window_blocks: 0
-    metadata_url: "https://raw.githubusercontent.com/Palinody/crypto/master/eigenlayer/operator/metadata.json"
+    metadata_url: https://raw.githubusercontent.com/Palinody/crypto/master/eigenlayer/operator/metadata.json
 
-el_slasher_address: "0xD11d60b669Ecf7bE10329726043B3ac07B380C22"
+el_slasher_address: 0xD11d60b669Ecf7bE10329726043B3ac07B380C22
 
-bls_public_key_compendium_address: "0xc81d3963087Fe09316cd1E032457989C7aC91b19"
+bls_public_key_compendium_address: 0xc81d3963087Fe09316cd1E032457989C7aC91b19
 
-eth_rpc_url: "https://eth-goerli.g.alchemy.com/v2/iCRSZab5r9KaVuq19j-Oft_pAkka2VqR"
+eth_rpc_url: https://eth-goerli.g.alchemy.com/v2/iCRSZab5r9KaVuq19j-Oft_pAkka2VqR
 
-private_key_store_path: "/root/.eigenlayer/operator_keys/topodopo.ecdsa.key.json"
+private_key_store_path: /root/.eigenlayer/operator_keys/topodopo.ecdsa.key.json
 
-signer_type: "local_keystore"
+signer_type: local_keystore
 
-bls_private_key_store_path: "/root/.eigenlayer/operator_keys/topodopo.bls.key.json"
+bls_private_key_store_path: /root/.eigenlayer/operator_keys/topodopo.bls.key.json
 
 # Chain ID (1: mainnet, 5: goerli, 31337: local)
 chain_id: 5
